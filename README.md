@@ -10,6 +10,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0001-two-sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0283-move-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishashetty19/45-days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
