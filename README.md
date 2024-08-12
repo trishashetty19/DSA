@@ -11,6 +11,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0283-move-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0283-move-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishashetty19/45-days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,9 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishashetty19/45-days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
