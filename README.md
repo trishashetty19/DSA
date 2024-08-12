@@ -13,6 +13,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | ------- |
 | [0001-two-sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,13 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
