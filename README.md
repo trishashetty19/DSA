@@ -15,6 +15,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 | [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0283-move-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0283-move-zeroes) |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +53,12 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
