@@ -14,12 +14,14 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+| [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0283-move-zeroes) |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
+| [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | ------- |
 | [0088-merge-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+| [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
