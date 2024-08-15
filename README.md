@@ -27,6 +27,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,12 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
