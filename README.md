@@ -41,6 +41,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishashetty19/45-days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0014-longest-common-prefix](https://github.com/trishashetty19/45-days-DSA/tree/master/0014-longest-common-prefix) |
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
