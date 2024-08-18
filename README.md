@@ -35,6 +35,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0442-find-all-duplicates-in-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0014-longest-common-prefix](https://github.com/trishashetty19/45-days-DSA/tree/master/0014-longest-common-prefix) |
+| [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 ## String Matching
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trishashetty19/45-days-DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
