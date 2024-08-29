@@ -20,6 +20,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
+| [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
