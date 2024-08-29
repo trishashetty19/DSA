@@ -19,6 +19,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
