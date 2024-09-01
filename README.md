@@ -22,6 +22,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
 | [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +113,5 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
+| [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
