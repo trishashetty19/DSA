@@ -23,6 +23,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
 | [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/trishashetty19/45-days-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Solve the DSA Sheet by Arsh #CrackYourInternship #CrackYourPlacement
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/trishashetty19/45-days-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Backtracking
 |  |
 | ------- |
