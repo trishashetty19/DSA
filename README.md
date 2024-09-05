@@ -25,6 +25,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trishashetty19/45-days-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1646-kth-missing-positive-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1646-kth-missing-positive-number) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
 | [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
