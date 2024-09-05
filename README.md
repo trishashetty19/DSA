@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
 | [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trishashetty19/45-days-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1646-kth-missing-positive-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [1646-kth-missing-positive-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
