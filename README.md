@@ -28,6 +28,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/trishashetty19/45-days-DSA/tree/master/0035-search-insert-position) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0075-sort-colors](https://github.com/trishashetty19/45-days-DSA/tree/master/0075-sort-colors) |
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Divide and Conquer
 |  |
 | ------- |
