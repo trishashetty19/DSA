@@ -29,6 +29,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/trishashetty19/45-days-DSA/tree/master/0035-search-insert-position) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0015-3sum](https://github.com/trishashetty19/45-days-DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
