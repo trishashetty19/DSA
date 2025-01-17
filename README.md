@@ -30,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/trishashetty19/45-days-DSA/tree/master/0035-search-insert-position) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
+| [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0012-integer-to-roman](https://github.com/trishashetty19/45-days-DSA/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 ## String Matching
 |  |
 | ------- |
