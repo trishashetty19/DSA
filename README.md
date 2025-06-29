@@ -133,6 +133,7 @@
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trishashetty19/45-days-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/trishashetty19/45-days-DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [0009-palindrome-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0009-palindrome-number) |
 ## Backtracking
 |  |
 | ------- |
