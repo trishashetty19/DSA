@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/trishashetty19/45-days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
