@@ -31,6 +31,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/trishashetty19/45-days-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/trishashetty19/45-days-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
