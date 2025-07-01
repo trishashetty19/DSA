@@ -146,6 +146,7 @@
 | [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [0050-powx-n](https://github.com/trishashetty19/45-days-DSA/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
 | [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
+| [0050-powx-n](https://github.com/trishashetty19/45-days-DSA/tree/master/0050-powx-n) |
 ## Memoization
 |  |
 | ------- |
