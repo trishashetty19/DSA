@@ -64,6 +64,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0009-palindrome-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/trishashetty19/45-days-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,4 +165,5 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
