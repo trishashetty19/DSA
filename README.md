@@ -106,6 +106,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0268-missing-number](https://github.com/trishashetty19/45-days-DSA/tree/master/0268-missing-number) |
+| [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/trishashetty19/45-days-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
+| [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
+| [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
