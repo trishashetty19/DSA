@@ -122,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
