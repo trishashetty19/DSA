@@ -33,6 +33,7 @@
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/trishashetty19/45-days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0231-power-of-two](https://github.com/trishashetty19/45-days-DSA/tree/master/0231-power-of-two) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
