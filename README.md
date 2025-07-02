@@ -37,6 +37,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
+| [0053-maximum-subarray](https://github.com/trishashetty19/45-days-DSA/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0022-generate-parentheses](https://github.com/trishashetty19/45-days-DSA/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1236-n-th-tribonacci-number) |
+| [0053-maximum-subarray](https://github.com/trishashetty19/45-days-DSA/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
 | [0004-median-of-two-sorted-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/trishashetty19/45-days-DSA/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
