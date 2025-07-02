@@ -36,6 +36,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1603-running-sum-of-1d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
