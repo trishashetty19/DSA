@@ -34,6 +34,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/trishashetty19/45-days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [1603-running-sum-of-1d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/trishashetty19/45-days-DSA/tree/master/1833-find-the-highest-altitude) |
 | [0238-product-of-array-except-self](https://github.com/trishashetty19/45-days-DSA/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
