@@ -141,6 +141,7 @@
 | [0125-valid-palindrome](https://github.com/trishashetty19/45-days-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0058-length-of-last-word](https://github.com/trishashetty19/45-days-DSA/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
