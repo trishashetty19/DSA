@@ -38,6 +38,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
 | [0053-maximum-subarray](https://github.com/trishashetty19/45-days-DSA/tree/master/0053-maximum-subarray) |
+| [1791-richest-customer-wealth](https://github.com/trishashetty19/45-days-DSA/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/trishashetty19/45-days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [1791-richest-customer-wealth](https://github.com/trishashetty19/45-days-DSA/tree/master/1791-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
