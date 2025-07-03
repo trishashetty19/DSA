@@ -52,6 +52,7 @@
 | [0189-rotate-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0189-rotate-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trishashetty19/45-days-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
+| [0125-valid-palindrome](https://github.com/trishashetty19/45-days-DSA/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/trishashetty19/45-days-DSA/tree/master/1205-defanging-an-ip-address) |
+| [0125-valid-palindrome](https://github.com/trishashetty19/45-days-DSA/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
