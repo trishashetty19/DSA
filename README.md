@@ -54,6 +54,7 @@
 | [0941-sort-array-by-parity](https://github.com/trishashetty19/45-days-DSA/tree/master/0941-sort-array-by-parity) |
 | [0125-valid-palindrome](https://github.com/trishashetty19/45-days-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0344-reverse-string) |
+| [0151-reverse-words-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1205-defanging-an-ip-address](https://github.com/trishashetty19/45-days-DSA/tree/master/1205-defanging-an-ip-address) |
 | [0125-valid-palindrome](https://github.com/trishashetty19/45-days-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0344-reverse-string) |
+| [0151-reverse-words-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
