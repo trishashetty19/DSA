@@ -134,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/trishashetty19/45-days-DSA/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/trishashetty19/45-days-DSA/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
 | ------- |
