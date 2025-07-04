@@ -73,6 +73,7 @@
 | [0049-group-anagrams](https://github.com/trishashetty19/45-days-DSA/tree/master/0049-group-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishashetty19/45-days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0349-intersection-of-two-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/trishashetty19/45-days-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0344-reverse-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0058-length-of-last-word](https://github.com/trishashetty19/45-days-DSA/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/trishashetty19/45-days-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
