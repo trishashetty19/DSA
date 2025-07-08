@@ -1,16 +1,20 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        n = len(nums)
+        n =len(nums)
 
-        for i in range(0,n):
-            isSwap = False
-            for j in range(n-i-1):
-                if nums[j] > nums[j+1]:
-                    nums[j], nums[j+1] = nums[j+1], nums[j]
-                    isSwap = True
-            if not isSwap:
-                break
-
+        left = 0
+        right = len(nums)-1
+        i=0
+        
+        while i<=right:
+            if nums[i] == 1:
+                i+=1
+            elif nums[i] == 0:
+                nums[i], nums[left] = nums[left], nums[i]
+                i+=1
+                left+=1
+            else:
+                nums[i], nums[right] = nums[right], nums[i]
+                right-=1
         return nums
-
         
