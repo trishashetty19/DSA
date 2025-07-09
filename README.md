@@ -42,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trishashetty19/45-days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0948-sort-an-array) |
+| [0792-binary-search](https://github.com/trishashetty19/45-days-DSA/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0035-search-insert-position](https://github.com/trishashetty19/45-days-DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trishashetty19/45-days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/trishashetty19/45-days-DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
