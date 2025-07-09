@@ -132,6 +132,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/trishashetty19/45-days-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/trishashetty19/45-days-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/trishashetty19/45-days-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0069-sqrtx](https://github.com/trishashetty19/45-days-DSA/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/trishashetty19/45-days-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/trishashetty19/45-days-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0050-powx-n](https://github.com/trishashetty19/45-days-DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/trishashetty19/45-days-DSA/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
